@@ -30,5 +30,5 @@
 </br>
 
 
-# bascom-avr__Light
+# Light #
 BASCOM-AVR Source Codes around Light
